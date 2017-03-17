@@ -8,7 +8,7 @@
 	</requires>
 	<extension point="xbmc.python.pluginsource" library="default.py" />
 	<extension point="xbmc.addon.metadata">
-		<description lang="en">Script to provide Watchlist feature for reFocus 1.1.0</description>
+		<description lang="en">Lists the next unwatched episodes or resumable movies</description>
 		<platform>all</platform>
 		<language />
 	</extension>
