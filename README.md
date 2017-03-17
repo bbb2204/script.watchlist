@@ -1,5 +1,5 @@
 # script.watchlist
-Script to provide watchlist functionality in Kodi library view
+Script to provide watchlist functionality in Kodi library view, lists the next unwatched episodes or resumable movies.
 
 ### Information for skin developers
 
