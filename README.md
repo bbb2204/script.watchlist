@@ -1,5 +1,4 @@
-## script.watchlist
-
+# script.watchlist
 Script to provide watchlist functionality in Kodi library view
 
 ### Information for skin developers
@@ -19,5 +18,5 @@ Where type is one of the following:
 -   episodes
 
 
-### Credit
+### Credits
 This script was created by Unfledged. Script is based upon service.library.data.provider, itself based upon service.skin.widgets.
