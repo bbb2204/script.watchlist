@@ -10,7 +10,7 @@ Include the following in your addon.xml:
 
 Use with:
 ```
-<onclick>ActivateWindow(Videos,plugin://script.watchlist?type=[type],return)</onclick>
+<onclick>ActivateWindow(video,plugin://script.watchlist?type=[type],return)</onclick>
 ```
 
 Where type is one of the following:
